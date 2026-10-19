@@ -7,10 +7,26 @@ INSTRUCCIONES:
 1. Reemplaza TU_USUARIO_GITHUB por tu nombre de usuario real.
 2. Personaliza las tecnologías según tus conocimientos.
 3. Los paneles externos pueden requerir que sus servicios estén activos.
--->
 
+-->
 <div align="center">
 
+<!-- FONDO VISUAL PERSONALIZADO -->
+<img
+  src="assets/fondo-cyberpunk.png"
+  width="100%"
+  alt="Fondo cyberpunk de Javier Aquino"
+/>
+
+<br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090014,40:7B2CFF,100:00F5D4&text=JAVIER%20AQUINO&fontColor=FFFFFF&fontSize=55&animation=fadeIn"
+  alt="Banner de Javier Aquino"
+/>
+
+</div>
 <!-- ═══════════════════ BANNER PRINCIPAL ═══════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:090014,35:31105E,70:8B2EFF,100:00F5D4&text=JAVIER%20AQUINO&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATIVE%20THINKER%20%7C%20TECH%20EXPLORER&descSize=14&descAlignY=59&animation=fadeIn" alt="Javier Aquino Retro Cyberpunk Banner"/>

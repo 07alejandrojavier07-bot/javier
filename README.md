@@ -10,22 +10,6 @@ INSTRUCCIONES:
 
 -->
 <div align="center">
-
-<!-- FONDO VISUAL PERSONALIZADO -->
-<img
-  src="assets/fondo-cyberpunk.png"
-  width="100%"
-  alt="Fondo cyberpunk de Javier Aquino"
-/>
-
-<br/>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090014,40:7B2CFF,100:00F5D4&text=JAVIER%20AQUINO&fontColor=FFFFFF&fontSize=55&animation=fadeIn"
-  alt="Banner de Javier Aquino"
-/>
-
 </div>
 <!-- ═══════════════════ BANNER PRINCIPAL ═══════════════════ -->
 

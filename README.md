@@ -503,3 +503,324 @@ Observe → Imagine → Build → Test → Improve → Repeat
        └────────────────────────┘
 
 
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                 JAVIER AQUINO // JA CYBER UNIVERSE                   ║
+║         RETRO ARCADE • CYBERPUNK • CREATIVE TECHNOLOGY                ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+SETUP:
+1. Replace TU_USUARIO_GITHUB with your real GitHub username everywhere.
+2. Upload the assets folder together with this README.md.
+3. Keep only platforms and technologies you use or are learning.
+4. GitHub README files do not support custom page-wide CSS backgrounds.
+   This design uses images, panels, badges and visual dividers instead.
+-->
+
+<div align="center">
+
+<!-- HERO ARTWORK: upload assets/ja-cyber-universe.png to the repository -->
+<img src="assets/ja-cyber-universe.png" width="100%" alt="JA Cyber Universe — futuristic neon Panama artwork"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2400&pause=700&color=00F5D4&center=true&vCenter=true&width=850&height=55&lines=%3E+SYSTEM+ONLINE...;%3E+WELCOME+TO+MY+DIGITAL+WORLD;%3E+CODE.+CREATE.+INNOVATE.;%3E+BUILDING+IDEAS+INTO+REALITY;%3E+FROM+PANAMA+TO+THE+WORLD" alt="Animated retro introduction"/>
+
+
+
+
+<img src="https://img.shields.io/badge/PLAYER-01-17132B?style=for-the-badge&logo=github&logoColor=00F5D4" alt="Player 1"/>
+<img src="https://img.shields.io/badge/LOCATION-PANAMA-00F5D4?style=for-the-badge&logo=googlemaps&logoColor=17132B" alt="Panama"/>
+<img src="https://img.shields.io/badge/THEME-RETRO%20CYBERPUNK-FF4DCA?style=for-the-badge" alt="Retro cyberpunk"/>
+<img src="https://img.shields.io/badge/MODE-ALWAYS%20LEARNING-7B2CFF?style=for-the-badge" alt="Always learning"/>
+
+
+
+
+<a href="https://github.com/TU_USUARIO_GITHUB?tab=followers"><img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?style=for-the-badge&label=FOLLOWERS&color=7B2CFF&logo=github" alt="Followers"/></a>
+<a href="https://github.com/TU_USUARIO_GITHUB?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-00F5D4?style=for-the-badge&logo=github&logoColor=17132B" alt="Repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&style=for-the-badge&color=FF4DCA&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5D4,50:7B2CFF,100:FF4DCA" width="100%" alt="Neon divider"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FF4DCA&width=500&height=40&lines=01+%2F+PLAYER+PROFILE" alt="Player profile"/>
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+👋 Hola, mundo. Soy Javier Aquino.
+Soy una persona apasionada por la tecnología, la creatividad, la programación y el desarrollo de ideas que puedan convertirse en proyectos reales.
+
+Me interesa explorar el mundo digital desde diferentes perspectivas: desarrollo de software, diseño de interfaces, videojuegos, herramientas digitales e innovación sostenible.
+
+Mi misión: seguir aprendiendo, crear proyectos originales y construir soluciones que combinen funcionalidad, creatividad y una identidad visual memorable.
+- 💻 Explorando el desarrollo de software.
+- 🎨 Diseñando experiencias digitales con personalidad.
+- 🎮 Interesado en videojuegos y cultura gamer.
+- 🌱 Inspirado por la innovación y la sostenibilidad.
+- ⚓ Interesado en el mundo marítimo y sus tecnologías.
+- 🚀 Construyendo mi camino, proyecto a proyecto.
+- 🇵🇦 Representando a Panamá en el mundo digital.
+</td>
+<td width="42%" align="center" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:17132B,50:31105E,100:00F5D4&text=JA.exe&fontColor=FFFFFF&fontSize=46&animation=fadeIn" width="100%" alt="JA.exe terminal panel"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=320&height=85&lines=Initializing+developer...;Loading+creative+ideas...;Status%3A+Learning+%26+Building" alt="Developer terminal animation"/>
+
+<img src="https://img.shields.io/badge/CREATIVITY-ON-17132B?style=for-the-badge&labelColor=7B2CFF" alt="Creativity on"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF4DCA,50:7B2CFF,100:00F5D4" width="100%" alt="Neon divider"/>
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=00F5D4&width=500&height=40&lines=02+%2F+MY+PHILOSOPHY" alt="My philosophy"/>
+<div align="center">
+
+THINK DIFFERENT. BUILD BETTER. KEEP EVOLVING.
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/01-INNOVATE-17132B?style=for-the-badge&logo=lightbulb&logoColor=00F5D4" alt="Innovate"/>
+<br/><sub>Buscar nuevas formas de resolver problemas.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/02-CREATE-17132B?style=for-the-badge&logo=codepen&logoColor=FF4DCA" alt="Create"/>
+<br/><sub>Transformar ideas en experiencias digitales.</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/03-IMPACT-17132B?style=for-the-badge&logo=leaflet&logoColor=00F5D4" alt="Impact"/>
+<br/><sub>Explorar soluciones útiles y sostenibles.</sub>
+</td>
+</tr>
+</table>
+
+“No necesitas saberlo todo para comenzar. Necesitas comenzar para descubrir hasta dónde puedes llegar.”
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FFB000&width=550&height=40&lines=03+%2F+TECHNOLOGY+ARCADE" alt="Technology arcade"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/INSERT_COIN-START_CREATING-17132B?style=for-the-badge&logo=arcade&logoColor=00F5D4" alt="Insert coin"/>
+
+🧠 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,c,cs,java,php,ruby,go,rust&theme=dark&perline=7" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=kotlin,swift,dart,lua,r,bash,powershell&theme=dark&perline=7" alt="Additional programming languages"/>
+
+🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,vite&theme=dark&perline=7" alt="Frontend development"/>
+
+⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,laravel&theme=dark&perline=7" alt="Backend development"/>
+
+🗄️ Databases & Data
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,supabase&theme=dark&perline=7" alt="Databases"/>
+
+🔧 Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vim,neovim,docker,postman&theme=dark&perline=7" alt="Developer tools"/>
+
+☁️ Operating Systems, Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple,aws,azure,gcp,vercel,netlify&theme=dark&perline=7" alt="Cloud and operating systems"/>
+
+🎨 Design, 3D & Game Development
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,ae,pr,unreal,unity&theme=dark&perline=7" alt="Design and game development"/>
+
+📱 Mobile & Cross-Platform
+<img src="https://skillicons.dev/icons?i=android,flutter,kotlin,swift,react&theme=dark&perline=7" alt="Mobile development"/>
+
+</div>
+
+<sub>Los iconos muestran tecnologías que puedes explorar o añadir a tu stack; no representan automáticamente experiencia profesional. Personaliza las listas para reflejar tus habilidades reales.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FF4DCA&width=550&height=40&lines=04+%2F+DIGITAL+UNIVERSE" alt="Digital universe"/>
+<div align="center">
+
+🧩 Code, Community & Collaboration
+<a href="https://github.com/TU_USUARIO_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+<a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/></a>
+<a href="https://codepen.io/"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/></a>
+🚀 Hosting & Deployment
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+<a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+<a href="https://pages.github.com/"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+📚 Learning & Community
+<a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/></a>
+<a href="https://www.freecodecamp.org/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp"/></a>
+<a href="https://www.w3schools.com/"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/></a>
+🎨 Creative Platforms
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+<a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
+<a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
+<a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/></a>
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=00F5D4&width=600&height=40&lines=05+%2F+MISSION+SELECT" alt="Mission select"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION_01-ECOPANA-17132B?style=for-the-badge&logo=leaflet&logoColor=00F5D4" alt="EcoPana mission"/>
+
+🌱 EcoPana — Sustainable Innovation
+Explorar soluciones para transformar residuos plásticos en productos útiles, como mobiliario urbano.
+- ♻️ Economía circular.
+- 🌎 Innovación sostenible.
+- 🧩 Diseño de soluciones.
+- 📈 Desarrollo de ideas de negocio.
+<img src="https://img.shields.io/badge/STATUS-CONCEPT_%2F_DEVELOPMENT-00AFA0?style=flat-square" alt="Project status"/>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION_02-DIGITAL_LAB-17132B?style=for-the-badge&logo=codepen&logoColor=00F5D4" alt="Digital lab mission"/>
+
+💻 Digital Playground
+Un espacio para experimentar con programación, diseño web y herramientas digitales.
+- 🖥️ Interfaces web.
+- 🎨 Diseño retro y cyberpunk.
+- ⚙️ Automatización y lógica.
+- 🚀 Aprendizaje mediante proyectos.
+<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-7B2CFF?style=flat-square" alt="Project status"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION_03-GAME_LAB-17132B?style=for-the-badge&logo=gamepad&logoColor=FF4DCA" alt="Game lab mission"/>
+
+🎮 Game Lab
+Explorar mecánicas de videojuegos, diseño de personajes y experiencias interactivas.
+- 🕹️ Conceptos de gameplay.
+- 🧠 Diseño de sistemas.
+- 🎭 Creatividad visual.
+- 🧪 Prototipos experimentales.
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/MISSION_04-MARITIME-17132B?style=for-the-badge&logo=ship&logoColor=00F5D4" alt="Maritime mission"/>
+
+⚓ Maritime Innovation
+Conectar el interés por el sector marítimo con el conocimiento técnico y las herramientas digitales.
+- 🚢 Cultura marítima.
+- 🔩 Sistemas y operaciones.
+- 🌊 Retos del sector naval.
+- 💡 Investigación e innovación.
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF4DCA,50:7B2CFF,100:00F5D4" width="100%" alt="Neon divider"/>
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FFB000&width=550&height=40&lines=06+%2F+PLAYER+STATISTICS" alt="Player statistics"/>
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO_GITHUB">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF4DCA&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/TU_USUARIO_GITHUB">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
+</a>
+
+
+
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4DCA&fire=00F5D4&currStreakLabel=00F5D4" alt="Contribution streak"/>
+
+
+
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0D1117&color=00F5D4&line=7B2CFF&point=FF4DCA&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
+
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies"/>
+
+</div>
+
+<sub>Las estadísticas dependen de servicios externos y de la actividad pública disponible en tu cuenta. Si un panel no carga, prueba más tarde o elimina ese panel.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FF4DCA&width=550&height=40&lines=07+%2F+CURRENT+QUEST" alt="Current quest"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📚 Learning Mode
+- [ ] Mejorar mis habilidades de programación.
+- [ ] Desarrollar proyectos web completos.
+- [ ] Aprender buenas prácticas de Git y GitHub.
+- [ ] Explorar herramientas de desarrollo.
+- [ ] Construir un portafolio digital.
+- [ ] Documentar mis proyectos.
+</td>
+<td width="50%" valign="top">
+
+🏆 Long-Term Goals
+- [ ] Crear proyectos útiles y originales.
+- [ ] Resolver problemas con creatividad.
+- [ ] Colaborar en proyectos open source.
+- [ ] Publicar aplicaciones y herramientas.
+- [ ] Conectar tecnología e innovación.
+- [ ] Construir una identidad profesional.
+</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=00F5D4&width=600&height=40&lines=08+%2F+DEVELOPER+WORKFLOW" alt="Developer workflow"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-IDEA-17132B?style=for-the-badge&labelColor=7B2CFF" alt="Idea"/>
+<img src="https://img.shields.io/badge/02-PLAN-17132B?style=for-the-badge&labelColor=7B2CFF" alt="Plan"/>
+<img src="https://img.shields.io/badge/03-CODE-17132B?style=for-the-badge&labelColor=FF4DCA" alt="Code"/>
+<img src="https://img.shields.io/badge/04-TEST-17132B?style=for-the-badge&labelColor=FF4DCA" alt="Test"/>
+<img src="https://img.shields.io/badge/05-DEPLOY-17132B?style=for-the-badge&labelColor=00AFA0" alt="Deploy"/>
+<img src="https://img.shields.io/badge/06-IMPROVE-17132B?style=for-the-badge&labelColor=00AFA0" alt="Improve"/>
+
+
+
+
+Observe → Imagine → Build → Test → Improve → Repeat
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5D4,50:7B2CFF,100:FF4DCA" width="100%" alt="Neon divider"/>
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=100000&color=FFB000&width=550&height=40&lines=09+%2F+CONNECT+WITH+ME" alt="Connect with me"/>
+<div align="center">
+
+¿Tienes una idea, un proyecto interesante o quieres compartir conocimientos? ¡Conectemos!
+
+<a href="https://github.com/TU_USUARIO_GITHUB"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Add your real social links when ready:
+<a href="https://www.linkedin.com/in/TU_PERFIL/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/TU_PERFIL/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:TU_CORREO_REAL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
+
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=650&height=45&lines=THANKS+FOR+VISITING+MY+PROFILE!;SEE+YOU+IN+THE+NEXT+COMMIT.;GAME+ON.+KEEP+BUILDING." alt="Thank you animation"/>
+
+EL FUTURO NO SE ESPERA, SE CONSTRUYE.
+<sub>Designed with creativity, curiosity and a retro-futuristic spirit.</sub>
+
+
+<sub>© Javier Aquino · Personal GitHub Profile</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5D4,45:7B2CFF,100:090014" alt="Neon footer"/>
+
+</div>
